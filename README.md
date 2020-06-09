@@ -14,5 +14,5 @@
   - `.update`
   - `.save`
   - `.destroy`
-  - `.find_By`
+  - `.find_by`
 - Pay attention to the return values and use the [documentation](https://guides.rubyonrails.org/active_record_basics.html) to find the many different ways you can use the same method. 
